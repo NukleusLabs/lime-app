@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "lime-web",
     "public": "public",
     "ignore": [
       "firebase.json",
